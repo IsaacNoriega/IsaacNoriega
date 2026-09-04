@@ -1,145 +1,52 @@
 <div align="center">
 
-# 👋 Hey, I'm Isaac Noriega
+# 👋 ¡Hola, soy Isaac!
 
-### Software Engineer · Full-Stack Developer · Cloud Enthusiast
+### `Software Engineer` · `Full-Stack Developer`
 
 <p>
-  <i>
-    I design and build scalable web & mobile applications,
-    from pixel-perfect interfaces to cloud-native backends.
-  </i>
+  <b>Construyo productos digitales escalables, interfaces modernas y soluciones cloud.</b>
 </p>
 
-<br/>
-
-<a href="https://github.com/IsaacNoriega">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:">
-  <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=IsaacNoriega&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+<p>
+  <a href="https://github.com/isaacnoriega">
+    <img src="https://komarev.com/ghpvc/?username=isaacnoriega&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-```typescript
-const isaac = {
-  role: "Software Engineer",
-  education: "Software Development Engineering @ ITESO",
-  gpa: "9.14 / 10",
-  location: "Guadalajara, Mexico",
+### ⚡ ABOUT ME
 
-  focus: [
-    "Full-Stack Development",
-    "Cloud Architecture",
-    "Scalable Systems",
-    "SaaS Platforms",
-    "Developer Experience"
-  ],
+</div>
 
-  currentlyLearning: [
-    "Distributed Systems",
-    "Cloud-Native Architecture",
-    "System Design",
-    "AI Integration"
-  ],
-
-  mindset: "Build it. Scale it. Improve it."
-};
-```
-
-I’m a Software Development Engineering student focused on building **real-world software products**, combining clean interfaces with robust backend architectures and cloud infrastructure.
-
-My interests sit at the intersection of:
-
-**Product Engineering × Cloud × Backend Architecture × Modern Web**
-
-I enjoy taking an idea from **concept → architecture → implementation → deployment**.
-
----
-
-# ⚡ What I Build
-
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Modern Web Applications
+🎓 **Software Development Engineering**
 
-Production-oriented applications using modern React ecosystems, TypeScript and scalable API architectures.
+ITESO · Guadalajara, México
 
-**Focus**
+📊 **GPA:** 9.14 / 10
 
-* Component-driven UI
-* SSR / SSG
-* REST APIs
-* Authentication
-* Performance
-* Responsive UX
+💻 **Full-Stack Development**
+
+☁️ **Cloud & Distributed Systems**
 
 </td>
 
 <td width="50%" valign="top">
 
-### ☁️ Cloud & Backend Systems
+I enjoy turning ideas into **real products**.
 
-Backend architectures designed around scalability, maintainability and reliable data flows.
+Me interesa especialmente crear sistemas que combinen:
 
-**Focus**
-
-* Microservices
-* Serverless
-* AWS
-* Docker
-* Event-driven systems
-* Realtime communication
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 SaaS Platforms
-
-Multi-tenant applications with complex business logic and role-based access control.
-
-**Focus**
-
-* Multi-tenancy
-* RBAC
-* JWT
-* Subscription logic
-* Admin dashboards
-* Data isolation
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📍 Data & Intelligent Systems
-
-Applications that combine structured data, geospatial processing and AI.
-
-**Focus**
-
-* PostgreSQL
-* PostGIS
-* MongoDB
-* Redis
-* Gemini AI
-* Recommendation systems
+`Great UX` · `Clean Architecture` · `Scalability` · `Cloud`
 
 </td>
 </tr>
@@ -147,325 +54,181 @@ Applications that combine structured data, geospatial processing and AI.
 
 ---
 
-# 🛠️ Tech Stack
+<div align="center">
 
-### Frontend
+## 🧰 TECH STACK
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,flutter" />
-</p>
+<br>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,c,dart" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,java,python" />
-</p>
+<br><br>
 
-### Databases
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,nodejs,nestjs,spring" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
+<br><br>
 
-### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,docker,git" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
-</p>
+</div>
 
-### Other Tools
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,postman,vscode" />
-</p>
+<div align="center">
+
+`TypeScript` · `JavaScript` · `Java` · `Python` · `C` · `Dart`
+
+`React` · `Next.js` · `NestJS` · `Spring Boot` · `Flutter`
+
+`PostgreSQL` · `MongoDB` · `Redis` · `AWS` · `Docker`
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+<div align="center">
 
-## ⚡ P-P-Custom
+# 🚀 FEATURED PROJECTS
 
-### Custom Product E-Commerce Platform
+### A few things I've built
 
-> A full-stack e-commerce platform featuring an interactive product customization experience.
+</div>
 
-**Architecture**
+<table>
+<tr>
 
-`Next.js` · `NestJS` · `PostgreSQL` · `Fabric.js` · `AWS S3`
+<td width="50%" valign="top">
 
-### Highlights
+## 🎨 P-P-Custom
 
-* 🎨 Interactive graphical editor powered by **Fabric.js**
-* 🛒 End-to-end e-commerce workflow
-* 📦 Order lifecycle management
-* ☁️ Large-scale asset storage with **AWS S3**
-* 🔐 Secure backend architecture
-* 🧩 Modular frontend architecture
+**Custom e-commerce platform**
 
----
+Interactive product customization powered by **Fabric.js**, complete order management with NestJS and cloud storage through AWS S3.
+
+`React` `NestJS` `PostgreSQL` `AWS S3`
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 🏫 School Sync Suite
 
-### Multi-Tenant School Management Platform
+**Multi-tenant school management**
 
-> A real-time SaaS platform designed to manage educational organizations, users and attendance.
+Monorepo architecture with role-based access, JWT authentication and real-time attendance using WebSockets.
 
-**Architecture**
+`Next.js` `NestJS` `WebSockets` `PostgreSQL`
 
-`Next.js` · `NestJS` · `PostgreSQL` · `WebSockets` · `JWT` · `RBAC`
+</td>
 
-### Highlights
+</tr>
 
-* 🏢 Multi-tenant architecture
-* 🔐 Role-Based Access Control
-* 🔑 JWT authentication
-* ⚡ Real-time attendance updates
-* 📊 Administrative dashboards
-* 📦 PNPM monorepo architecture
+<tr>
 
----
+<td width="50%" valign="top">
 
-## 🗺️ NextDate
+## 📍 NextDate
 
-### AI-Powered Location & Itinerary Platform
+**AI-powered travel experience**
 
-> A cross-platform mobile application that combines geospatial data with generative AI.
+Mobile platform that generates personalized itineraries using Gemini AI and calculates proximity using PostGIS.
 
-**Architecture**
+`React Native` `Spring Boot` `Gemini` `PostGIS`
 
-`React Native` · `Spring Boot` · `PostGIS` · `Gemini AI`
+</td>
 
-### Highlights
-
-* 🤖 AI-generated itineraries
-* 📍 Geospatial queries with **PostGIS**
-* 📱 Cross-platform mobile experience
-* 🗺️ Location-based recommendations
-* ⚙️ Spring Boot backend
-* 🧠 AI-assisted decision making
-
----
+<td width="50%" valign="top">
 
 ## 🎓 Skoolia
 
-### Educational Marketplace
+**Educational marketplace**
 
-> A marketplace connecting learners with educational opportunities through intelligent search and lead management.
+Search and discovery platform connecting users with educational opportunities through a scalable backend and structured data.
 
-**Architecture**
+`Next.js` `NestJS` `PostgreSQL`
 
-`Next.js` · `NestJS` · `PostgreSQL`
+</td>
 
-### Highlights
+</tr>
 
-* 🔎 Intelligent course discovery
-* 🎓 Course marketplace
-* 📈 Lead management
-* 🔐 Authentication & authorization
-* 🗄️ Relational data architecture
-* ⚡ Modern full-stack architecture
+<tr>
 
----
+<td width="50%" valign="top">
 
 ## 🏢 Macacos Condos
 
-### Condominium Management SaaS
+**Property management SaaS**
 
-> A multi-tenant SaaS platform for managing residential communities and their operations.
+Multi-tenant platform designed to manage condominiums, amenities, residents and communication in one place.
 
-**Architecture**
+`Next.js` `NestJS` `PostgreSQL`
 
-`React` · `Node.js` · `MongoDB`
+</td>
 
-### Highlights
+<td width="50%" valign="top">
 
-* 🏘️ Property management
-* 👥 Resident management
-* 📅 Amenity management
-* 📢 Communication channels
-* 🏢 Multi-tenant architecture
-* 📊 Administrative workflows
+## 📄 CVCloud
 
----
+**Serverless resume platform**
 
-## ♻️ ReUseITESO
+Cloud-native platform that automatically generates professional PDF resumes using AWS Lambda microservices.
 
-### Sustainable Community Marketplace
+`React` `AWS Lambda` `S3`
 
-> A gamified marketplace designed to encourage circular economy and sustainable exchanges within the ITESO community.
+</td>
 
-**Architecture**
-
-`TypeScript` · `Node.js` · `Tailwind CSS`
-
-### Highlights
-
-* ♻️ Circular economy model
-* 🛍️ Community marketplace
-* 🎮 Gamification
-* 👥 User interaction
-* 🌱 Sustainability-focused product design
+</tr>
+</table>
 
 ---
 
-## ☁️ CVCloud
+<div align="center">
 
-### Serverless Resume Generator
+## ☁️ CLOUD & ARCHITECTURE
 
-> A cloud-native platform for automatically generating professional resumes as PDF documents.
-
-**Architecture**
-
-`React` · `AWS Lambda` · `AWS S3`
-
-### Highlights
-
-* ☁️ Serverless architecture
-* ⚡ AWS Lambda
-* 📄 Automated PDF generation
-* 🗂️ Cloud-based document storage
-* 🔄 Event-driven workflows
-
----
-
-## 🌱 Gizmo Notes
-
-### Productivity & Habit Companion
-
-> A mobile productivity application that combines task management with virtual-pet mechanics.
-
-**Architecture**
-
-`Flutter` · `Dart`
-
-### Highlights
-
-* 📱 Cross-platform mobile application
-* 🐾 Virtual companion mechanics
-* ✅ Habit tracking
-* 🎮 Gamified productivity
-* 📈 Daily progress system
-
----
-
-# 🧠 Engineering Principles
-
-I care about more than just making software work.
+<br>
 
 ```text
-┌─────────────────────────────────────────────┐
-│              HOW I APPROACH SOFTWARE        │
-├─────────────────────────────────────────────┤
-│                                             │
-│  🧩 SOLIDITY       →  Understand the system │
-│  📐 ARCHITECTURE   →  Design before coding  │
-│  🧪 QUALITY        →  Test critical paths  │
-│  🔐 SECURITY       →  Protect the data     │
-│  ⚡ PERFORMANCE    →  Optimize bottlenecks │
-│  📈 SCALABILITY    →  Design for growth    │
-│  🧹 CLEAN CODE     →  Optimize for humans  │
-│                                             │
-└─────────────────────────────────────────────┘
+                    ┌──────────────────────┐
+                    │       CLIENTS        │
+                    │ Web · Mobile · API   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │      APPLICATION     │
+                    │ React · Next · Nest  │
+                    └──────────┬───────────┘
+                               │
+                  ┌────────────┼────────────┐
+                  ▼            ▼            ▼
+             PostgreSQL    MongoDB       Redis
+                  │            │            │
+                  └────────────┼────────────┘
+                               ▼
+                    ┌──────────────────────┐
+                    │         AWS          │
+                    │ S3 · Lambda · EC2    │
+                    └──────────────────────┘
 ```
 
-> **Good software isn't just software that works.
-> It's software that can evolve.**
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacNoriega&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacNoriega&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=IsaacNoriega&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
 
-# 📈 Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacNoriega&theme=tokyo-night&hide_border=true&area=true" />
+## 📊 GITHUB
 
-</div>
+<br>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=isaacnoriega&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
 
-# 🎯 Currently
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnoriega&layout=compact&hide_border=true&theme=transparent" height="170"/>
 
-```text
-🔭 Building       → Production-ready full-stack applications
+<br><br>
 
-☁️ Exploring      → AWS & cloud-native architectures
-
-🧠 Learning       → System Design & distributed systems
-
-🤖 Exploring      → AI-powered software products
-
-📱 Developing     → Modern web & mobile experiences
-
-🚀 Goal           → Become a high-impact Software Engineer
-```
-
----
-
-# 📚 Engineering Interests
-
-```text
-Frontend Architecture
-        ↓
-Backend Architecture
-        ↓
-API Design
-        ↓
-Database Modeling
-        ↓
-Distributed Systems
-        ↓
-Cloud Infrastructure
-        ↓
-Observability
-        ↓
-Scalable Products
-```
-
-I'm particularly interested in understanding **how all these layers interact**, rather than treating frontend, backend and infrastructure as isolated disciplines.
-
----
-
-# 🤝 Let's Build Something
-
-I'm always interested in:
-
-* 🚀 Interesting software products
-* ☁️ Cloud architecture
-* 🧠 AI-powered applications
-* 🏢 SaaS platforms
-* 🌐 Full-stack engineering
-* 💡 Open-source projects
-* 🤝 Collaborating with ambitious developers
-
-<br/>
-
-<div align="center">
-
-### If you found something interesting here, feel free to ⭐ a repository.
-
-<br/>
-
-**Thanks for stopping by!**
+<img src="https://streak-stats.demolab.com?user=isaacnoriega&hide_border=true&theme=transparent"/>
 
 </div>
 
@@ -473,6 +236,30 @@ I'm always interested in:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer"/>
+## ✦ CURRENTLY
+
+<br>
+
+🔭 Building **scalable web & cloud applications**
+
+🌱 Exploring **distributed systems & modern architectures**
+
+🧠 Improving **software architecture & engineering practices**
+
+🚀 Turning ideas into **shippable products**
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+### `BUILD` · `SHIP` · `LEARN` · `REPEAT`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
 
 </div>
