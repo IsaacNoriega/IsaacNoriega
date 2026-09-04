@@ -1,4 +1,4 @@
-# ¡Hola, soy Isaac! 👋
+**# ¡Hola, soy Isaac! 👋
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=IsaacNoriega&style=flat-square&color=blue" alt="Profile Views" />
@@ -130,3 +130,4 @@ Estudiante de Ingeniería en Desarrollo de Software en el ITESO (Promedio: 9.14/
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=IsaacNoriega&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacNoriega&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+**
